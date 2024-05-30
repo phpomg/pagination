@@ -1,0 +1,11 @@
+{
+    "name": "phpomg/pagination",
+    "description": "pagination",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PHPOMG\\Pagination\\": "src/"
+        }
+    }
+}
